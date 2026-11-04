@@ -4,7 +4,7 @@
 ## - At least a C++ 20 compiler.
 # Compilation steps(unix-like compilers)
 ## GCC G++
-** g++ main.cpp -std=c++23 -o main**
+**g++ main.cpp -std=c++23 -o main**
 ## Clang Clang++
 **clang++ main.cpp -std=c++23 -o main**
 
